@@ -1,0 +1,23 @@
+[project]
+name = "ai-engineering-bootcamp-code"
+version = "0.1.0"
+description = "All the code examples from the book AI Engineering Bootcamp"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic",
+    "fastapi",
+    "huggingface_hub",
+    "ipython",
+    "jupyter",
+    "langchain",
+    "langchain-openai",
+    "matplotlib",
+    "numpy",
+    "openai",
+    "pandas",
+    "pydantic",
+    "python-dotenv",
+    "python-multipart",
+    "uvicorn",
+]
