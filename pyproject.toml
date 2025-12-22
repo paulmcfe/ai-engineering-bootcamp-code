@@ -12,6 +12,7 @@ dependencies = [
     "jupyter",
     "langchain",
     "langchain-openai",
+    "langgraph",
     "matplotlib",
     "numpy",
     "openai",
