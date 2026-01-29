@@ -1,3 +1,6 @@
+# Project Specific
+uv.lock
+dev-docs/
 .DS_Store
 Thumbs.db
 tokens-and-keys.txt
