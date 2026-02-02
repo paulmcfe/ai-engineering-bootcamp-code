@@ -29,5 +29,6 @@ dependencies = [
     "python-dotenv",
     "python-multipart",
     "qdrant-client",
+    "sqlalchemy",
     "uvicorn",
 ]
