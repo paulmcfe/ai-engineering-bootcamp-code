@@ -31,4 +31,8 @@ dependencies = [
     "qdrant-client",
     "sqlalchemy",
     "uvicorn",
+    "ragas>=0.4.0",
+    "datasets",
+    "nest-asyncio",
+    "rapidfuzz",
 ]
