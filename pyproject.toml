@@ -35,4 +35,5 @@ dependencies = [
     "datasets",
     "nest-asyncio",
     "rapidfuzz",
+    "together>=1.5.0",
 ]
