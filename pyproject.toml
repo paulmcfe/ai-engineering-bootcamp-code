@@ -35,4 +35,7 @@ dependencies = [
     "datasets",
     "nest-asyncio",
     "rapidfuzz",
+    "rank-bm25",
+    "cohere",
+    "langchain-experimental",
 ]
