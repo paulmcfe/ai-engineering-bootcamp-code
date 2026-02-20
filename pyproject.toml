@@ -38,4 +38,5 @@ dependencies = [
     "rank-bm25",
     "cohere",
     "langchain-experimental",
+    "together>=1.5.0",
 ]
