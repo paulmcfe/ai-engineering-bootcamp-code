@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "multi_agent": "./chapter05.py:multi_agent_app"
+    },
+    "env": "./.env"
+}

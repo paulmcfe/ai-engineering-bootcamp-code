@@ -39,4 +39,10 @@ dependencies = [
     "cohere",
     "langchain-experimental",
     "together>=1.5.0",
+    "langgraph-api>=0.9.1",
+]
+
+[dependency-groups]
+dev = [
+    "langgraph-cli>=0.4.31",
 ]
